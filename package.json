@@ -1,0 +1,22 @@
+{
+  "name": "gulp-repostfix",
+  "version": "1.0.0",
+  "description": "To change file name postfix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forsigner/gulp-repostfix.git"
+  },
+  "author": "forsigner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forsigner/gulp-repostfix/issues"
+  },
+  "homepage": "https://github.com/forsigner/gulp-repostfix#readme",
+  "dependencies": {
+    "through2": "^2.0.0"
+  }
+}
