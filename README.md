@@ -1,4 +1,4 @@
-# gulp-replace-name
+# gulp-replace-name [![Build Status](https://travis-ci.org/forsigner/gulp-replace-name.svg?branch=master)](https://travis-ci.org/forsigner/gulp-replace-name)
 To change file name.
 
 ## Install
