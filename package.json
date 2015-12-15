@@ -4,7 +4,7 @@
   "description": "To change file name",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "homepage": "https://github.com/forsigner/gulp-replace-name#readme",
   "dependencies": {
     "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "should": "^8.0.1"
   }
 }
