@@ -13,9 +13,6 @@ $ npm install gulp-replace-name --save-dev
 var gulp = require('gulp');
 var replaceName = require('gulp-replace-name');
 
-var gulp = require('gulp');
-var replaceName = require('./index');
-
 // .js -> .min.js
 gulp.task('replaceName', function() {
   return gulp.src('./**/*.js')
