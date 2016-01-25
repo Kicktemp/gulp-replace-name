@@ -1,4 +1,4 @@
-# gulp-replace-name [![Build Status](https://travis-ci.org/forsigner/gulp-replace-name.svg?branch=master)](https://travis-ci.org/forsigner/gulp-replace-name)
+# gulp-replace-name [![Build Status](https://travis-ci.org/forsigner/gulp-replace-name.svg?branch=master)](https://travis-ci.org/forsigner/gulp-replace-name) [![NPM Version](http://img.shields.io/npm/v/gulp-replace-name.svg?style=flat)](https://www.npmjs.org/package/gulp-replace-name)
 To change file name.
 
 ## Install
