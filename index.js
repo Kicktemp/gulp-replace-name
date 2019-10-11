@@ -15,7 +15,7 @@ module.exports = function(reg, value) {
     return;
   }
 
-  return through.obj(function(file, encoding, callback) {
+  return through.obj(function(file, encoding, cb) {
     if (file.isNull()) {
       cb(null, file);
       return;
@@ -38,6 +38,6 @@ module.exports = function(reg, value) {
       }));
     }
 
-    callback(null, file);
+    cb(null, file);
   });
 };
